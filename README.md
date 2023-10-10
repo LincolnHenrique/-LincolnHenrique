@@ -1,7 +1,7 @@
 # Olá! Eu sou o Lincoln Henrique
 
- - 💻🔎 Atualmente procurando por estágio para que eu possa me desenvolver
- - 😍🌱 Estudando Gestão da Tecnologia da Informação
+ - 💻🔎 Sempre buscando oportunidades para que eu possa me desenvolver
+ - 😍🌱 Formado em Gestão da Tecnologia da Informação
  - 😄 Pronouns: Ele/dele
 
 <div align="center">
