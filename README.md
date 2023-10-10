@@ -1,5 +1,6 @@
 # Olá! Eu sou o Lincoln Henrique
 
+ - 👨‍💻 Analyst MS na NEORIS
  - 💻🔎 Sempre buscando oportunidades para que eu possa me desenvolver
  - 😍🌱 Formado em Gestão da Tecnologia da Informação
  - 😄 Pronouns: Ele/dele
