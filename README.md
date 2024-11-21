@@ -3,7 +3,7 @@
  - 👨‍💻 Analyst MS na NEORIS
  - 💻🔎 Sempre buscando oportunidades para que eu possa me desenvolver
  - 😍🌱 Formado em Gestão da Tecnologia da Informação
- - 😄 Pronouns: Ele/dele
+ - 😄 Atuando como Analista de suporte, buscando oportunidade na area de programacao!
 
 <div align="center">
   <a href="https://github.com/LincolnHenrique">
